@@ -4,7 +4,7 @@ text = """Hello world!
 This is a tiny text editor.
 Edit me!"""
 
-cursor = 5
+cursor = 6
 
 
 def draw(screen):
